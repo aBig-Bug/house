@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcdafda4-efb9-4cc2-b113-839a19b7fbf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Home-NetWork/src/main/resources/templates/xz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Home-NetWork/src/main/resources/templates/xz/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\ideaSettings\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\ideaSettings\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aCLJ9OVX9MuMQIytkcqepmYCCQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HouseApplication">
+    <configuration name="HomeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="home" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nj.home.HomeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="house (1) (com.house)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.house.HouseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="house" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yaner.house.HouseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.HouseApplication" />
+      <item itemvalue="Spring Boot.HouseApplication (1)" />
+      <item itemvalue="Spring Boot.HomeApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.013921114" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcdafda4-efb9-4cc2-b113-839a19b7fbf8" name="Default Changelist" comment="" />
+      <created>1586234555486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586234555486</updated>
+      <workItem from="1586234586552" duration="7408000" />
+      <workItem from="1586322620923" duration="2795000" />
+      <workItem from="1586343324190" duration="1783000" />
+      <workItem from="1586398635410" duration="10456000" />
+      <workItem from="1586415823836" duration="5707000" />
+      <workItem from="1586488543648" duration="2080000" />
+      <workItem from="1586576415281" duration="8006000" />
+      <workItem from="1586592738739" duration="1594000" />
+      <workItem from="1586696229518" duration="613000" />
+      <workItem from="1586933317864" duration="2176000" />
+    </task>
+    <task id="LOCAL-00001" summary="后台">
+      <created>1586934136430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586934136430</updated>
+    </task>
+    <task id="LOCAL-00002" summary="后台">
+      <created>1586935556470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586935556502</updated>
+    </task>
+    <task id="LOCAL-00003" summary="后台">
+      <created>1586936389253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586936389253</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="后台" />
+    <option name="LAST_COMMIT_MESSAGE" value="后台" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="292" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586581718243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="312" y="292" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1586581718243" />
+    <state x="393" y="231" width="580" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586594497093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="393" y="231" width="580" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586594497093" />
+    <state x="178" y="0" key="CommitChangelistDialog2" timestamp="1586936505916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="178" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586936505916" />
+    <state x="504" y="94" key="FileChooserDialogImpl" timestamp="1586935779178">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="504" y="94" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586935779178" />
+    <state width="1275" height="565" key="GridCell.Tab.0.bottom" timestamp="1586584907512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1275" height="565" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586584907512" />
+    <state width="1275" height="565" key="GridCell.Tab.0.center" timestamp="1586584907512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1275" height="565" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586584907512" />
+    <state width="1275" height="565" key="GridCell.Tab.0.left" timestamp="1586584907512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1275" height="565" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586584907512" />
+    <state width="1275" height="565" key="GridCell.Tab.0.right" timestamp="1586584907512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1275" height="565" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586584907512" />
+    <state width="1275" height="565" key="GridCell.Tab.1.bottom" timestamp="1586584907512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1275" height="565" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586584907512" />
+    <state width="1275" height="565" key="GridCell.Tab.1.center" timestamp="1586584907512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1275" height="565" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586584907512" />
+    <state width="1275" height="565" key="GridCell.Tab.1.left" timestamp="1586584907512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1275" height="565" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586584907512" />
+    <state width="1275" height="565" key="GridCell.Tab.1.right" timestamp="1586584907512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1275" height="565" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586584907512" />
+    <state x="364" y="105" key="NewModule_or_Project.wizard" timestamp="1586696410482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="364" y="105" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1586696410482" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1586933662509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586933662509" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1586325256717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586325256717" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../新建文件夹/house/src/main/java/com/house/web/controller/HomeController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
